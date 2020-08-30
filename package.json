@@ -1,0 +1,19 @@
+{
+  "name": "english-nums",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Konrad Linkowski",
+  "description": "An object containing english name of numbers",
+  "repository": "https://github.com/KonradLinkowski/english-nums",
+  "license": "MIT",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "dependencies": {
+    "english2number": "^1.0.8"
+  },
+  "devDependencies": {
+    "int2english": "^1.0.3",
+    "jasmine": "^3.6.1"
+  }
+}

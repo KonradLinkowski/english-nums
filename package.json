@@ -9,6 +9,16 @@
   "scripts": {
     "test": "jasmine"
   },
+  "keywords": [
+    "javascript",
+    "numbers",
+    "english",
+    "nlp",
+    "english2numbers",
+    "natural language",
+    "natural language processing",
+    "conver"
+  ],
   "dependencies": {
     "english2number": "^1.0.8"
   },
